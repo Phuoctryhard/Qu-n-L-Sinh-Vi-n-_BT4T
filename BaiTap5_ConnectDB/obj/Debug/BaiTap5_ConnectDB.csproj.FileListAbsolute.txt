@@ -1,0 +1,12 @@
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\bin\Debug\BaiTap5_ConnectDB.exe.config
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\bin\Debug\BaiTap5_ConnectDB.exe
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\bin\Debug\BaiTap5_ConnectDB.pdb
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.csproj.AssemblyReference.cache
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.csproj.SuggestedBindingRedirects.cache
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.Form1.resources
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.Properties.Resources.resources
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.csproj.GenerateResource.cache
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.csproj.CoreCompileInputs.cache
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.exe
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.pdb
+E:\Csharp\BaiTap5\BaiTap5_ConnectDB\BaiTap5_ConnectDB\obj\Debug\BaiTap5_ConnectDB.InformationForm.resources
